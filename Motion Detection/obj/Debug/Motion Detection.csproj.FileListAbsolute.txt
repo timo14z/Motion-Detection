@@ -1,0 +1,63 @@
+c:\users\timo\documents\visual studio 2013\Projects\Motion Detection\Motion Detection\bin\Debug\Motion Detection.exe.config
+c:\users\timo\documents\visual studio 2013\Projects\Motion Detection\Motion Detection\bin\Debug\Motion Detection.exe
+c:\users\timo\documents\visual studio 2013\Projects\Motion Detection\Motion Detection\bin\Debug\Motion Detection.pdb
+c:\users\timo\documents\visual studio 2013\Projects\Motion Detection\Motion Detection\bin\Debug\AForge.dll
+c:\users\timo\documents\visual studio 2013\Projects\Motion Detection\Motion Detection\bin\Debug\AForge.Imaging.dll
+c:\users\timo\documents\visual studio 2013\Projects\Motion Detection\Motion Detection\bin\Debug\AForge.Math.dll
+c:\users\timo\documents\visual studio 2013\Projects\Motion Detection\Motion Detection\bin\Debug\AForge.Video.DirectShow.dll
+c:\users\timo\documents\visual studio 2013\Projects\Motion Detection\Motion Detection\bin\Debug\AForge.Video.dll
+c:\users\timo\documents\visual studio 2013\Projects\Motion Detection\Motion Detection\obj\Debug\Motion Detection.csprojResolveAssemblyReference.cache
+c:\users\timo\documents\visual studio 2013\Projects\Motion Detection\Motion Detection\obj\Debug\Motion_Detection.Properties.Resources.resources
+c:\users\timo\documents\visual studio 2013\Projects\Motion Detection\Motion Detection\obj\Debug\Motion Detection.csproj.GenerateResource.Cache
+c:\users\timo\documents\visual studio 2013\Projects\Motion Detection\Motion Detection\obj\Debug\Motion Detection.exe
+c:\users\timo\documents\visual studio 2013\Projects\Motion Detection\Motion Detection\obj\Debug\Motion Detection.pdb
+c:\users\timo\documents\visual studio 2013\Projects\Motion Detection\Motion Detection\obj\Debug\Motion_Detection.Main_Form.resources
+C:\Users\rufaaaaa\Downloads\Motion Detection\Motion Detection\Motion Detection\bin\Debug\Motion Detection.exe.config
+C:\Users\rufaaaaa\Downloads\Motion Detection\Motion Detection\Motion Detection\obj\Debug\Motion Detection.exe
+C:\Users\rufaaaaa\Downloads\Motion Detection\Motion Detection\Motion Detection\obj\Debug\Motion Detection.pdb
+C:\Users\rufaaaaa\Downloads\Motion Detection\Motion Detection\Motion Detection\bin\Debug\Motion Detection.exe
+C:\Users\rufaaaaa\Downloads\Motion Detection\Motion Detection\Motion Detection\bin\Debug\Motion Detection.pdb
+C:\Users\rufaaaaa\Downloads\Motion Detection\Motion Detection\Motion Detection\obj\Debug\Motion Detection.csprojResolveAssemblyReference.cache
+C:\Users\rufaaaaa\Downloads\Motion Detection\Motion Detection\Motion Detection\obj\Debug\Motion_Detection.Main_Form.resources
+C:\Users\rufaaaaa\Downloads\Motion Detection\Motion Detection\Motion Detection\obj\Debug\Motion_Detection.Properties.Resources.resources
+C:\Users\rufaaaaa\Downloads\Motion Detection\Motion Detection\Motion Detection\obj\Debug\Motion Detection.csproj.GenerateResource.Cache
+C:\Users\rufaaaaa\Downloads\Motion Detection\Motion Detection\Motion Detection\obj\Debug\Motion_Detection.Event_Image.resources
+C:\Users\rufaaaaa\Downloads\Motion Detection - Design\Motion Detection\Motion Detection\bin\Debug\Motion Detection.exe.config
+C:\Users\rufaaaaa\Downloads\Motion Detection - Design\Motion Detection\Motion Detection\obj\Debug\Motion Detection.exe
+C:\Users\rufaaaaa\Downloads\Motion Detection - Design\Motion Detection\Motion Detection\obj\Debug\Motion Detection.pdb
+C:\Users\rufaaaaa\Downloads\Motion Detection - Design\Motion Detection\Motion Detection\bin\Debug\Motion Detection.exe
+C:\Users\rufaaaaa\Downloads\Motion Detection - Design\Motion Detection\Motion Detection\bin\Debug\Motion Detection.pdb
+C:\Users\rufaaaaa\Downloads\Motion Detection - Design\Motion Detection\Motion Detection\obj\Debug\Motion Detection.csprojResolveAssemblyReference.cache
+C:\Users\rufaaaaa\Downloads\Motion Detection - Design\Motion Detection\Motion Detection\obj\Debug\Motion_Detection.Event_Image.resources
+C:\Users\rufaaaaa\Downloads\Motion Detection - Design\Motion Detection\Motion Detection\obj\Debug\Motion_Detection.Main_Form.resources
+C:\Users\rufaaaaa\Downloads\Motion Detection - Design\Motion Detection\Motion Detection\obj\Debug\Motion_Detection.Properties.Resources.resources
+C:\Users\rufaaaaa\Downloads\Motion Detection - Design\Motion Detection\Motion Detection\obj\Debug\Motion Detection.csproj.GenerateResource.Cache
+C:\Users\TiMo\Downloads\Motion-Detection-Design\Motion Detection - Design\Motion Detection\Motion Detection\bin\Debug\Motion Detection.exe.config
+C:\Users\TiMo\Downloads\Motion-Detection-Design\Motion Detection - Design\Motion Detection\Motion Detection\obj\Debug\Motion Detection.exe
+C:\Users\TiMo\Downloads\Motion-Detection-Design\Motion Detection - Design\Motion Detection\Motion Detection\obj\Debug\Motion Detection.pdb
+C:\Users\TiMo\Downloads\Motion-Detection-Design\Motion Detection - Design\Motion Detection\Motion Detection\bin\Debug\Motion Detection.exe
+C:\Users\TiMo\Downloads\Motion-Detection-Design\Motion Detection - Design\Motion Detection\Motion Detection\bin\Debug\Motion Detection.pdb
+C:\Users\TiMo\Downloads\Motion-Detection-Design\Motion Detection - Design\Motion Detection\Motion Detection\bin\Debug\AForge.dll
+C:\Users\TiMo\Downloads\Motion-Detection-Design\Motion Detection - Design\Motion Detection\Motion Detection\bin\Debug\AForge.Imaging.dll
+C:\Users\TiMo\Downloads\Motion-Detection-Design\Motion Detection - Design\Motion Detection\Motion Detection\bin\Debug\AForge.Math.dll
+C:\Users\TiMo\Downloads\Motion-Detection-Design\Motion Detection - Design\Motion Detection\Motion Detection\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\TiMo\Downloads\Motion-Detection-Design\Motion Detection - Design\Motion Detection\Motion Detection\bin\Debug\AForge.Video.dll
+C:\Users\TiMo\Downloads\Motion-Detection-Design\Motion Detection - Design\Motion Detection\Motion Detection\obj\Debug\Motion Detection.csprojResolveAssemblyReference.cache
+C:\Users\TiMo\Downloads\Motion-Detection-Design\Motion Detection - Design\Motion Detection\Motion Detection\obj\Debug\Motion_Detection.Event_Image.resources
+C:\Users\TiMo\Downloads\Motion-Detection-Design\Motion Detection - Design\Motion Detection\Motion Detection\obj\Debug\Motion_Detection.Main_Form.resources
+C:\Users\TiMo\Downloads\Motion-Detection-Design\Motion Detection - Design\Motion Detection\Motion Detection\obj\Debug\Motion_Detection.Properties.Resources.resources
+C:\Users\TiMo\Downloads\Motion-Detection-Design\Motion Detection - Design\Motion Detection\Motion Detection\obj\Debug\Motion Detection.csproj.GenerateResource.Cache
+C:\Users\TiMo\Downloads\Motion-Detection-Design\Motion Detection - Design\Motion Detection\Motion Detection\obj\Debug\Interop.WMPLib.dll
+C:\Users\TiMo\Downloads\Motion-Detection-Design\Motion Detection - Design\Motion Detection\Motion Detection\obj\Debug\Motion Detection.csproj.ResolveComReference.cache
+H:\Tameem's Projects\Motion-Detection - final\Motion Detection\Motion Detection\bin\Debug\Motion Detection.exe.config
+H:\Tameem's Projects\Motion-Detection - final\Motion Detection\Motion Detection\obj\Debug\Interop.WMPLib.dll
+H:\Tameem's Projects\Motion-Detection - final\Motion Detection\Motion Detection\obj\Debug\Motion Detection.csproj.ResolveComReference.cache
+H:\Tameem's Projects\Motion-Detection - final\Motion Detection\Motion Detection\obj\Debug\Motion Detection.exe
+H:\Tameem's Projects\Motion-Detection - final\Motion Detection\Motion Detection\obj\Debug\Motion Detection.pdb
+H:\Tameem's Projects\Motion-Detection - final\Motion Detection\Motion Detection\bin\Debug\Motion Detection.exe
+H:\Tameem's Projects\Motion-Detection - final\Motion Detection\Motion Detection\bin\Debug\Motion Detection.pdb
+H:\Tameem's Projects\Motion-Detection - final\Motion Detection\Motion Detection\obj\Debug\Motion Detection.csprojResolveAssemblyReference.cache
+H:\Tameem's Projects\Motion-Detection - final\Motion Detection\Motion Detection\obj\Debug\Motion_Detection.Event_Image.resources
+H:\Tameem's Projects\Motion-Detection - final\Motion Detection\Motion Detection\obj\Debug\Motion_Detection.Main_Form.resources
+H:\Tameem's Projects\Motion-Detection - final\Motion Detection\Motion Detection\obj\Debug\Motion_Detection.Properties.Resources.resources
+H:\Tameem's Projects\Motion-Detection - final\Motion Detection\Motion Detection\obj\Debug\Motion Detection.csproj.GenerateResource.Cache
